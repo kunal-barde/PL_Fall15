@@ -13,7 +13,7 @@
 
 	Desc : Following is a sample prolog program and a snap of its output.
 
-	![alt tag](https://github.com/kunal-barde/PL_Fall15/blob/master/Prolog_Programs/Sister_Rule_Program.png)
-	![alt tag](https://github.com/kunal-barde/PL_Fall15/blob/master/Prolog_Programs/Sister_Rule_Output.png)
+![text](https://github.com/kunal-barde/PL_Fall15/blob/master/Prolog_Programs/Sister_Rule_Program.png)
+![text](https://github.com/kunal-barde/PL_Fall15/blob/master/Prolog_Programs/Sister_Rule_Output.png)
 
 
