@@ -8,3 +8,12 @@
 	2. Scheme
 	3. Python
 	4. Prolog
+
+*Prolog Programs:
+
+	Desc : Following is a sample prolog program and a snap of its output.
+
+	![text](Sister_Rule_Program.png)
+	![text](Sister_Rule_Output.png)
+
+
